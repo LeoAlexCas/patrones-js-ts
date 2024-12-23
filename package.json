@@ -1,0 +1,21 @@
+{
+  "name": "patrones",
+  "version": "1.0.0",
+  "description": "Curso Udemy patrones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.5",
+    "axios": "^1.6.2",
+    "class-validator": "^0.14.0"
+  }
+}
